@@ -10,6 +10,7 @@ Nos entregan 2 bases de datos no estructuradas de peliculas, a las cuales debiam
 1. **Data Engineering**:
 
 - **ETL (Extraction, Transformation and Loading)** (LINK AL PROCESO DE ETL [`ETL.ipynb`](./ETL.ipynb))
+
 🌟Movies dataset
     * ANÁLISIS Y TRANSFORMACIÓN DE TIPOS DE DATOS
     * EXTRACCIÓN DE MES/AÑO, CREACIÓN DE COLUMNAS PARA CADA UNO.
